@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Karthikeyan A V
+- I am a mechanical engineering graduate who surprisingly also interested in programming
+- Familiar with Python
